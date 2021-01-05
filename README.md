@@ -40,10 +40,8 @@ PicPoster, like any other Laravel project, uses MVC structure. Through this I am
 
 [My Github](https://docs.github.com/Farad2020)
 
-## Some Screenshots
+# PicPoster Screenshots
 
-![Snapshot_1](https://github.com/Farad2020/GameLibra/blob/main/bonusDocs/Opera%20Snapshot.png)
-![Snapshot_2](https://github.com/Farad2020/GameLibra/blob/main/bonusDocs/Opera%20Snapshot_2.png)
-![Snapshot_3](https://github.com/Farad2020/GameLibra/blob/main/bonusDocs/Opera%20Snapshot_3.png)
+![Snapshot_1](https://github.com/Farad2020/PicPoster/blob/main/bonus%20pics/PicPoster_1.png)
+![Snapshot_2](https://github.com/Farad2020/PicPoster/blob/main/bonus%20pics/PicPoster_2.png)
 
-# PicPoster
